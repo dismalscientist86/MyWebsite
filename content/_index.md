@@ -4,8 +4,8 @@ type: book # Do not modify.
 toc: false
 
 cover:
-  image: covers/PXL_20201121_000858606.jpg
-  caption: Dani Sandler
+  image: covers/PXL_20220714_200427915.jpg
+  caption: Tomato plants
 ---
 
 **Principal Economist**
