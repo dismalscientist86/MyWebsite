@@ -1,5 +1,5 @@
 ---
-title: ✍️ Notes
+title: Danielle H. Sandler
 type: book # Do not modify.
 toc: false
 
@@ -8,7 +8,10 @@ cover:
   caption: NASA
 ---
 
-Welcome to the _Notes_ template!
+**Principal Economics**
+U.S. Census Bureau
+Center for Economic Studies
+Interdisciplinary Research
 
 The **Notes** starter template empowers you to easily create  **personal notes** and **knowledge bases** in a future-proof way.
 
