@@ -4,8 +4,8 @@ type: book # Do not modify.
 toc: false
 
 cover:
-  image: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  image: covers/PXL_20201121_000858606.jpg
+  caption: Dani Sandler
 ---
 
 **Principal Economist**
