@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: 数据结构
-linktitle: 数据结构
-summary: Notes on Python data structures.
+title: Social Media
+linktitle: Social Media
+summary: Social media links
 weight: 2
 icon: python
 icon_pack: fab
