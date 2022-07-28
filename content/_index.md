@@ -8,10 +8,31 @@ cover:
   caption: NASA
 ---
 
-**Principal Economics**
+**Principal Economist**
+
 U.S. Census Bureau
+
 Center for Economic Studies
+
 Interdisciplinary Research
+
+**Contact**
+
+Office Email: [danielle.h.sandler@census.gov](mailto:danielle.h.sandler@census.gov)
+
+Personal Email: dismalscientist86@gmail.com
+
+Office Phone: 301-763-9281
+
+Twitter handle: @dhsandler
+
+
+**Links**
+Curriculum Vitae: PDF
+
+Google Scholar
+
+RePEc
 
 The **Notes** starter template empowers you to easily create  **personal notes** and **knowledge bases** in a future-proof way.
 
